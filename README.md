@@ -55,9 +55,10 @@
 
 ## Simon Mwangi  🕵️‍♂️  
 
-**Name:** Simon Mwangi  
+**Name:** Simon Mwangi 
+**Github:** https://github.com/cyclictriad/portfolio-hackathon-group12 
 
-**Porfoio Link:** https://github.com/cyclictriad/p2p-group-12-portfolio-hackathon 
+**Porfoio Link:** https://muchiri-simon-mwangi-portfolio.netlify.app 
 
 ---
 
